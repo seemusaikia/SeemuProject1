@@ -1,0 +1,152 @@
+[
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546068150660,
+            "changeTime": 1546068150660,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546068150661,
+            "changeTime": 1546068150661,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546069968107,
+            "changeTime": 1546069968107,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546068150661,
+            "changeTime": 1546068150661,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546072279598,
+            "changeTime": 1546072279598,
+            "contentHash": "9d63d6a4003cb3056f498a4479e517aff8506c53",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546072279600,
+            "changeTime": 1546072279600,
+            "contentHash": "9ecee8b127e0dacfa21ca64ca2e675930e842296",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 27,
+            "modifiedTime": 1546072279600,
+            "changeTime": 1546072279600,
+            "contentHash": "f77f405276fce2c457b8423303ffccb5a455abce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 91,
+            "modifiedTime": 1546072279599,
+            "changeTime": 1546072279599,
+            "contentHash": "727932acd0374123c2b41334757d9b2568f2a078",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1\\force-app\\main\\default\\lwc\\a\\a.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1546072279600,
+            "changeTime": 1546072279600,
+            "contentHash": "537ad7dae67d7f2ac824499e61af539bebcf2ab0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\seemu\\OneDrive\\Desktop\\Official\\SeemuProject1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546068195886,
+            "changeTime": 1546068195886,
+            "contentHash": "8499f14caadb26edb7610391b24cea2d696a53e6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
